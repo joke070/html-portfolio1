@@ -1,0 +1,101 @@
+body {
+  text-align: center;
+  margin: 0%;
+  padding: 0%;
+}
+
+.head-container {
+  background-color:#8C1F28 ;
+  
+  padding-top: 70px;
+  padding-bottom: 70px;
+  align-items: center;
+}
+
+.middle-container {
+  background-color: white;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  
+}
+
+.skill-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.profile {
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-size:50px;
+  font-family:"Anta", sans-serif;
+  color:#D92525;
+}
+h2{
+  text-align:center;
+  color: #D92525;
+  padding-bottom:20px;
+}.me {
+  border-radius: 2.5rem;
+  position: relative;
+  padding-top: ;
+  
+}
+
+hr {
+width: 90px;
+height: ;
+color: #8C1F28;
+border-style: dotted;
+border-bottom: none;
+margin-top: 50px;
+margin-bottom: 50px;
+}
+
+
+#paragraph {
+  font-size: 20px;
+}
+
+.about-me {
+margin-top: 100px;
+margin-bottom: 100px;
+}
+
+#about {
+  margin-bottom: 50px;
+  
+}
+
+.btn {
+  margin-bottom: 50px;
+  color: white;
+  background: #D92525;
+  padding-top: 8px; 
+  padding-left: 5px; 
+  padding-bottom: 8px; 
+  padding-right: 5px;
+  border-radius: 5px;
+  font-family: "Anta", sans-serif;
+
+}
+
+.footer {
+  background-color: #8C1F28;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+
+.x-logo {
+  border-radius: 4px;
+}
+
+.insta-logo {
+  border-radius: 4px;
+}
